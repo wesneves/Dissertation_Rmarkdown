@@ -1,0 +1,81 @@
+---
+title: ''
+header-includes:
+ - \usepackage{float}
+ - \usepackage[brazil]{babel}
+ - \usepackage{fontenc}
+ - \usepackage{times, amsmath, amsfonts, amssymb, amsthm}
+ - \usepackage{paralist}
+ - \usepackage{setspace}\spacing{1.5}
+ - \usepackage{fancyhdr}
+ - \usepackage{lastpage}
+ - \usepackage{dcolumn}
+ - \usepackage{natbib}\bibliographystyle{agsm}
+ - \usepackage[nottoc, numbib]{tocbibind}
+bibliography: references.bib
+output: pdf_document
+keep_tex: true
+fontsize: 12pt
+fontenc: T1
+geometry: "left = 2.5cm, right = 2cm, top = 2cm, bottom = 2cm"
+setspace: nodisplayskipstretch
+inputenc: utf8
+endnote: no
+csl: associacao-brasileira-de-normas-tecnicas.csl
+---
+
+\newcommand{\universidade}{Universidade Federal de Pernambuco}
+\newcommand{\centro}{Centro de Biociências}
+\newcommand{\departamento}{Departamento de Zoologia}
+\newcommand{\ppg}{Programa de Pós-Graduação em Biologia Animal}
+\newcommand{\curso}{Ciências Biológicas com ênfase em Ciências Ambientais}
+\newcommand{\titulo}{Caracterização da diversidade funcional de macrobentos e do tipo e estado de cinco praias do litoral de Pernambuco.}
+\newcommand{\nome}{Wesley de Oliveira Neves}
+\newcommand{\orientador}{Prof. Dr. José Roberto Botelho de Souza}
+\newcommand{\cidadeano}{Recife\\2023}
+\newcommand{\titulacao}{Mestre em Biologia Animal}
+
+
+
+\thispagestyle{empty}
+\setstretch{1.0}
+
+\begin{center}
+\vspace{3cm}
+\normalsize
+{\MakeUppercase{\bf{\universidade}}}\\
+{\MakeUppercase{\bf{\centro}}}\\
+{\MakeUppercase{\bf{\ppg}}}\\
+\end{center}
+
+\begin{center}
+\vspace{5cm}
+{\MakeUppercase{\bf{\nome}}}
+\end{center}
+
+\begin{center}
+\vspace{5cm}
+\MakeUppercase{\bf{\titulo}}
+\end{center}
+
+
+\begin{center}
+\vspace{8cm}
+\MakeUppercase{\bf{\cidadeano}}
+\end{center}
+
+\newpage
+\thispagestyle{empty}
+\setcounter{page}{1}
+\begin{center}
+\vspace{3cm}
+{\MakeUppercase{\bf{\nome}}}
+\end{center}
+
+\begin{center}
+\vspace{6cm}
+\MakeUppercase{\bf{\titulo}}
+\end{center}
+
+
+
