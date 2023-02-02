@@ -1,0 +1,16 @@
+---
+title: ''
+output: pdf_document
+---
+\begin{center}
+\thispagestyle{empty}
+\section*{\MakeUppercase{\textbf{AGRADECIMENTOS}}}
+\end{center}
+
+Folha opcional. Espaço onde o autor exprime seu reconhecimento à pessoa(s) e ou instituição (ções) que contribuiu (íram) com o autor, expresso(s) de maneira simples e sóbria. Coloca-se a palavra Agradecimentos no espaço superior da folha, centralizado.
+
+Agradeço agradeço agradeço agradeço agradeço agradeço agradeço agradeço agradeço.
+
+Agradeço agradeço agradeço agradeço agradeço agradeço agradeço agradeço agradeço agradeço agradeço .
+
+Meu agradecimento especial a Fulano de Tal.

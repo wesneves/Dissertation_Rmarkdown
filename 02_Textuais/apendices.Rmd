@@ -1,0 +1,24 @@
+---
+title: ''
+output: pdf_document
+---
+# APÊNDICES
+
+## APÊNDICE A: tabelas adicionais
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel tristique dolor. Suspendisse eros felis, maximus eget finibus ac, dignissim nec diam. Etiam ut laoreet velit. Duis eget posuere neque. Mauris sollicitudin tempor tincidunt. Sed nulla ex, molestie a arcu in, aliquam auctor dui. Phasellus vel augue mauris. Maecenas aliquam convallis dui ut lacinia. Integer quis neque ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent fringilla quam quis viverra tincidunt. Nam posuere eu metus vestibulum hendrerit. Donec at ipsum tincidunt, finibus dui in, ullamcorper felis. Nullam vel justo non nisi congue cursus.
+
+
+
+\newpage
+
+## APÊNDICE B: figuras adicionais
+
+Aliquam erat volutpat. Suspendisse sit amet egestas massa, nec pharetra nisl. Cras pharetra posuere augue. Nullam aliquet dictum magna, quis rutrum urna auctor vitae. Donec convallis ante at diam eleifend finibus. Phasellus varius, risus at viverra tempor, ipsum nunc posuere leo, et cursus odio nulla quis nunc. Etiam vel odio quam. Cras tincidunt auctor nibh efficitur viverra.
+
+
+\newpage
+
+## APÊNDICE C: códigos adicionais
+
+In vulputate volutpat magna, eu ullamcorper sem ultrices sit amet. Suspendisse potenti. Suspendisse maximus porttitor arcu at pharetra. Aenean sit amet tortor ut enim. 

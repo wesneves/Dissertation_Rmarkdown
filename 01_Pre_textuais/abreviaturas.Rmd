@@ -1,0 +1,15 @@
+---
+title: ''
+output: pdf_document
+---
+\begin{center}
+\thispagestyle{empty}
+\section*{\MakeUppercase{\textbf{LISTA DE ABREVIATURAS E SIGLAS}}}
+\end{center}
+
+\vspace {2cm}
+\begin{tabular}{lll}
+$t_E$ & \hspace{1cm} & Tempo expiratório \\
+$t_I$ & \hspace{1cm} & Tempo inspiratório \\
+UFPE & \hspace{1cm} & Universidade Federal de Pernambuco \\
+\end{tabular}

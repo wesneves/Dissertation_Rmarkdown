@@ -1,0 +1,19 @@
+---
+title: ''
+output: pdf_document
+---
+
+
+# 4. DISCUSSÃO
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non pharetra neque. In tristique luctus urna, nec aliquet lectus luctus eu. Quisque a tellus sed mauris luctus facilisis vitae ultricies sapien. Morbi sagittis dui quam, et suscipit nunc mollis sed. Cras interdum sapien eget ex blandit molestie nec et leo. Vestibulum interdum tristique mi non maximus. Donec bibendum ipsum a nibh laoreet aliquet.
+
+Morbi quis ultrices lacus, nec fringilla nunc. Donec non justo aliquet mauris mollis rhoncus vitae ac odio. Vestibulum at justo lobortis justo interdum luctus ut eu magna. Fusce sapien urna, molestie a diam id, maximus viverra lacus. In id dui rhoncus, aliquam massa in, vulputate orci. Pellentesque nec nulla vehicula purus mattis ultrices quis at magna. Fusce commodo condimentum gravida. Sed a rutrum ipsum. Praesent sit amet consectetur sem. Morbi pellentesque justo et leo hendrerit, eget volutpat ipsum cursus. Curabitur ornare sodales enim, tempor condimentum dolor euismod a. Nam sagittis ut nisl vel ornare.
+
+Mauris laoreet, nibh ut laoreet vulputate, enim leo feugiat ipsum, vitae faucibus dui massa nec mauris. Cras in condimentum nulla. Proin id faucibus est. Etiam quis porttitor nunc, id congue ex. Duis volutpat dictum leo, vitae pulvinar dui semper ut. Praesent est nisi, commodo quis hendrerit non, dignissim id sem. Maecenas a imperdiet risus. Fusce sollicitudin nisi sed finibus sodales. Vivamus tincidunt tortor sollicitudin mattis accumsan.
+
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse potenti. Vestibulum blandit ac risus non congue. Sed vitae metus luctus, hendrerit ligula id, euismod sapien. Quisque dapibus, ligula quis dapibus rhoncus, justo turpis cursus erat, eu scelerisque mi nisi non mauris. Maecenas et velit ac metus semper pharetra. Duis malesuada feugiat felis, at blandit leo ornare eu.
+
+Vestibulum vel ipsum sit amet elit dapibus vulputate. Mauris fermentum dapibus sapien sit amet tincidunt. Suspendisse sed lorem iaculis, dictum risus nec, ullamcorper tellus. Morbi sit amet massa eu erat hendrerit porta. Nulla at dignissim massa, vitae pharetra libero. Suspendisse nec massa sagittis sem convallis auctor non sit amet purus. Integer id magna rutrum, sollicitudin nulla vel, ullamcorper mauris. Nam viverra enim elit, eget dapibus purus varius ac. Maecenas eu quam bibendum, placerat est id, molestie risus. Fusce efficitur justo hendrerit, cursus nunc eu, porta nulla. Fusce dignissim, est ac suscipit efficitur, mauris nibh fringilla elit, eu volutpat mi turpis sed libero. Cras tristique risus at tortor blandit, ut hendrerit nibh viverra. Aenean pulvinar, sapien non vulputate bibendum, ipsum nibh mollis arcu, at pulvinar metus urna eget ipsum. Etiam congue convallis purus quis condimentum. Nam convallis, lacus nec ornare suscipit, lacus neque luctus velit, eu aliquam augue mauris ut arcu.
+
+Vivamus finibus imperdiet eros hendrerit feugiat. Duis id ex sodales, dictum neque eget, fermentum lorem. Vestibulum eu placerat leo, vitae finibus neque. Suspendisse ut justo.

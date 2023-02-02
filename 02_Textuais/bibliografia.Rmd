@@ -1,0 +1,11 @@
+---
+title: ''
+output: pdf_document
+---
+
+::: {align="center"}
+# REFERÊNCIAS
+:::
+
+::: {#refs}
+:::

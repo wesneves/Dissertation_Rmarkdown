@@ -1,0 +1,12 @@
+---
+title: ''
+output: pdf_document
+bibliography: references.bib
+---
+
+\thispagestyle{empty}
+\vspace*{22cm}
+\hspace{8cm}{\begin{minipage}{8.5cm}{
+Há mais coisas entre o céu e a terra, Horácio, do que sonha a nossa vã filosofia.\\
+(Shakespeare, 1604, p.16)}
+\end{minipage}}

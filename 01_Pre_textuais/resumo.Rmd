@@ -1,0 +1,13 @@
+---
+title: ''
+output: pdf_document
+---
+
+\begin{center}
+\thispagestyle{empty}
+\section*{\MakeUppercase{\textbf{RESUMO}}}
+\end{center}
+
+A primeira frase de um resumo deve expressar o tema principal do documento, seguido da categoria (estudo de caso, análise,...), empregando-se o verbo na voz passiva e na terceira pessoa do singular. O resumo de um trabalho acadêmico (teses, dissertações e outros) deve ter entre 150 e 500 palavras, em uma seqüência de frases concisas e objetivas. Deve ser redigido em parágrafo único, ressaltando-se o objetivo, o método, e os principais resultados. Evitar siglas e abreviaturas, no entanto, se for necessário, na primeira vez que for citá-la, apresentar seu significado por extenso, seguido da sigla entre parênteses. Deve ser seguido das palavras-chave, as quais devem ser separadas entre si por ponto e finalizadas por ponto.
+
+**Palavras-chave:** Palavra 1. Palavra 2. Palavra 3.

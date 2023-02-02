@@ -77,5 +77,127 @@ csl: associacao-brasileira-de-normas-tecnicas.csl
 \MakeUppercase{\bf{\titulo}}
 \end{center}
 
+\vspace{2cm}
+\hspace{8cm}{\begin{minipage}{8.5cm}{
+  Trabalho de Conclusão de Curso apresentado a Coordenação do Curso de Graduação em \ppg, da \universidade, como requisito parcial para obtenção do Título de \titulacao.\\
+  Orientador: \parbox[t]{6.0cm}{\orientador}}
+  \end{minipage}}
 
+\vspace{8cm}
+\begin{center}
+\MakeUppercase{\bf{\cidadeano}}
+\end{center}
 
+\newpage
+\thispagestyle{empty}
+\begin{center}
+{\bf {FICHA CATALOGRÁFICA}}
+\end{center}
+
+\newpage
+\thispagestyle{empty}
+\begin{center}
+{\MakeUppercase{\bf{\nome}}}
+\end{center}
+
+\begin{center}
+\vspace{2cm}
+\MakeUppercase{\textbf{\titulo}}
+\end{center}
+
+\vspace{2cm}
+\hspace{8cm}{\begin{minipage}{8.5cm}{
+  Trabalho de Conclusão de Curso apresentado a Coordenação do Curso de Graduação em \ppg, da \universidade, como requisito parcial para obtenção do Título de \titulacao.\\
+  Orientador: \parbox[t]{6.0cm}{\orientador}}
+Data de Aprovação: XX/XX/XX\\
+Nota: X 
+\end{minipage}}
+
+\begin{center}
+\vspace{1cm}
+{\MakeUppercase{\bf {Comissão Examinadora}}}
+
+\vspace{1cm}
+
+{\makebox[10cm][c] {\hrulefill}\\}
+{\bf Orientador: \orientador \\}
+{\bf Universidade Federal de Pernambuco}
+\vspace{1cm}
+
+{\makebox[10cm][c] {\hrulefill}\\}
+{\bf Prof. Dr. Componente da Banca\\}
+{\bf Universidade Federal de Pernambuco}
+\vspace{1cm}
+
+{\makebox[10cm][c] {\hrulefill}\\}
+{\bf Prof. Dr. Componente da Banca\\}
+{\bf Universidade Federal de Pernambuco}
+\vspace{2cm}
+
+\end{center}
+
+\newpage
+\thispagestyle{empty}
+```{r dedicatoria, child='01_Pre_textuais/dedicatoria.Rmd'}
+```
+
+\newpage
+\thispagestyle{empty}
+```{r agradecimentos, child='01_Pre_textuais/agradecimentos.Rmd'}
+```
+
+\newpage
+\thispagestyle{empty}
+```{r epigrafe, child='01_Pre_textuais/epigrafe.Rmd'}
+```
+
+\newpage
+\thispagestyle{empty}
+```{r resumo, child='01_Pre_textuais/resumo.Rmd'}
+```
+
+\newpage
+\thispagestyle{empty}
+```{r abstract, child='01_Pre_textuais/abstract.Rmd'}
+```
+
+\newpage
+```{r abreviaturas, child = '01_Pre_textuais/abreviaturas.Rmd'}
+```
+
+\newpage
+\begin{center}
+\MakeUppercase{\bf{SUMÁRIO}}
+\end{center}
+\begin{center}
+\tableofcontents
+\end{center}
+\thispagestyle{empty}
+
+\newpage
+```{r intro, child = '02_Textuais/introducao.Rmd'}
+```
+
+\newpage
+```{r methods, child = '02_Textuais/metodos.Rmd'}
+```
+
+\newpage
+```{r results, child = '02_Textuais/resultados.Rmd'}
+```
+
+\newpage
+```{r discussion, child = '02_Textuais/discussao.Rmd'}
+```
+
+\newpage
+```{r conclusion, child = '02_Textuais/conclusao.Rmd'}
+```
+
+\newpage
+```{r biblio, child = '02_Textuais/bibliografia.Rmd'}
+```
+
+\newpage
+```{r appendix, child = '02_Textuais/apendices.Rmd'}
+```
