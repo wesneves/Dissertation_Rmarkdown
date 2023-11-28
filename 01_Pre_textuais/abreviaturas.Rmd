@@ -4,7 +4,7 @@ output: pdf_document
 ---
 \begin{center}
 \thispagestyle{empty}
-\section*{\MakeUppercase{\textbf{LISTA DE ABREVIATURAS E SIGLAS}}}
+\section*{\normalsize\MakeUppercase{\textbf{LISTA DE ABREVIATURAS E SIGLAS}}}
 \end{center}
 
 \vspace {2cm}

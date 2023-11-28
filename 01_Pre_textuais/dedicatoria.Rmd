@@ -4,7 +4,5 @@ output: pdf_document
 ---
 
 \thispagestyle{empty}
-\vspace*{22cm}
-\hspace{8cm}{\begin{minipage}{8.5cm}{
-Dedico esse trabalho a Deus, porque Ele é bom e o seu amor dura para sempre. (1 Cr. 16. 34).}
-\end{minipage}}
+\vspace*{21cm}
+Dedico esse trabalho a Deus, porque Ele é bom e o seu amor dura para sempre. (1 Cr. 16. 34)

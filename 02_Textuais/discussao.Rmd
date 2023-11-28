@@ -4,7 +4,7 @@ output: pdf_document
 ---
 
 
-# 4. DISCUSSÃO
+# 4 DISCUSSÃO
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non pharetra neque. In tristique luctus urna, nec aliquet lectus luctus eu. Quisque a tellus sed mauris luctus facilisis vitae ultricies sapien. Morbi sagittis dui quam, et suscipit nunc mollis sed. Cras interdum sapien eget ex blandit molestie nec et leo. Vestibulum interdum tristique mi non maximus. Donec bibendum ipsum a nibh laoreet aliquet.
 

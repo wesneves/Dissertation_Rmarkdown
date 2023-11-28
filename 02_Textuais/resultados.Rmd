@@ -3,11 +3,11 @@ title: ''
 output: pdf_document
 ---
 
-# 3. RESULTADOS
+# 3 RESULTADOS
 
 Vestibulum vel ipsum sit amet elit dapibus vulputate. Mauris fermentum dapibus sapien sit amet tincidunt. Suspendisse sed lorem iaculis, dictum risus nec, ullamcorper tellus. Morbi sit amet massa eu erat hendrerit porta. Nulla at dignissim massa, vitae pharetra libero. Suspendisse nec massa sagittis sem convallis auctor non sit amet purus. Integer id magna rutrum, sollicitudin nulla vel, ullamcorper mauris. Nam viverra enim elit, eget dapibus purus varius ac. Maecenas eu quam bibendum, placerat est id, molestie risus. Fusce efficitur justo hendrerit, cursus nunc eu, porta nulla. Fusce dignissim, est ac suscipit efficitur, mauris nibh fringilla elit, eu volutpat mi turpis sed libero. Cras tristique risus at tortor blandit, ut hendrerit nibh viverra. Aenean pulvinar, sapien non vulputate bibendum, ipsum nibh mollis arcu, at pulvinar metus urna eget ipsum. Etiam congue convallis purus quis condimentum. Nam convallis, lacus nec ornare suscipit, lacus neque luctus velit, eu aliquam augue mauris ut arcu.
 
-## \textsc{3.1 Exemplo de Tabelas e Gráficos}
+## 3.1 EXEMPLO DE TABELAS E GRÁFICOS
 
 
 ```{r dados1, include=F, echo=F}
