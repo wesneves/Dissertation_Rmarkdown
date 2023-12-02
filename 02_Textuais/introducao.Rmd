@@ -11,7 +11,7 @@ output: pdf_document
 
 Parte inicial do trabalho, onde deve-se expor a finalidade e os objetivos da pesquisa e outros elementos que situa o leitor no texto. Deve ser separado do título que antecede por 1 (um) espaço entrelinhas de 1,5cm.
 
-(OBS: Considerar a contagem das paginas a partir da folha de rosto, mas numerar somente a partir da introdução).
+(OBS: Considerar a contagem das páginas a partir da folha de rosto, mas numerar somente a partir da introdução).
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum [@dexter1992].
 
